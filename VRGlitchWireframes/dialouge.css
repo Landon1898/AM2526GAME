@@ -11,7 +11,8 @@ body{
 p{
     color:whitesmoke;
     margin: 10px;
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family:'Michroma', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1rem;
 }
 #mainUi{
     position: fixed;
@@ -62,7 +63,7 @@ p{
 #friendBarFill{
     background-color: rgba(255, 97, 190, 1);
     width: 100%;
-    height: 90%; /* <--- Change this number for the fillness of the friendship meter*/
+    height: 50%; /* <--- Change this number for the fillness of the friendship meter*/
 }
 #friendBar p{
     color: black;
