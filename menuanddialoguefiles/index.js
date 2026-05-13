@@ -1,3 +1,3 @@
 document.getElementById("playBtn").addEventListener("click", function() {
-    window.location.href = "dialouge.html";
+    window.location.href = "dialogue.html";
 });
