@@ -1,0 +1,47 @@
+{
+    "scenes": [
+        {
+            "scene": "1",
+            "choices": [
+                        {
+                            "choiceNumber": 1,
+                            "text": "19XX",
+                            "nextScene": "2"
+                        },
+                        {
+                            "choiceNumber": 2,
+                            "text": "20XX",
+                            "nextScene": "2"
+                        },
+                        {
+                            "choiceNumber": 3,
+                            "text": "21XX",
+                            "nextScene": "2"
+                        }
+            ]
+        },
+        {
+            "scene": "2",
+            "choices": []
+        },
+        {
+            "scene": "3",
+            "choices": []
+        },
+        {
+            "scene": "4",
+            "choices": [
+                        {
+                            "choiceNumber": 1,
+                            "text": "Take the job",
+                            "nextScene": "4a"
+                        },
+                        {
+                            "choiceNumber": 2,
+                            "text": "Find another",
+                            "nextScene": "4b"
+                        }
+            ]
+        }
+    ]
+}
