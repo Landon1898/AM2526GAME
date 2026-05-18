@@ -3,7 +3,7 @@
     {
       "id": "Donut",
       "name": "Donut",
-      "description": "A sweet donut. Restores health.",
+      "description": "A sweet donut. Restores 10 health.",
       "type": "consumable",
       "stackable": true,
       "maxStack": 10,
@@ -15,7 +15,7 @@
     {
       "id": "Lasagna",
       "name": "Lasagna",
-      "description": "A filling lasagna. Restores health.",
+      "description": "A filling lasagna. Restores 5 health.",
       "type": "consumable",
       "stackable": true,
       "maxStack": 5,
@@ -27,7 +27,7 @@
     {
       "id": "steak",
       "name": "Steak",
-      "description": "A beefy steak. Restores health.",
+      "description": "A beefy steak. Restores  15 health.",
       "type": "consumable",
       "stackable": true,
       "maxStack": 5,
