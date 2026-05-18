@@ -50,7 +50,7 @@
         },
         {
             "scene": "10",
-            "background": ""
+            "background": "inauguration.jpg"
         },
         {
             "scene": "11",
@@ -87,6 +87,11 @@
         {
             "scene": "19",
             "background": "drunkenclamoutside.jpg"
+        },
+        {
+            "scene": "20",
+            "background": "drunkenclamoutside.jpg"
         }
     ]
 }
+
