@@ -1,0 +1,92 @@
+{
+    "scenes": [
+        {
+            "scene": "1",
+            "background": "backgrounds/boxi_hospital.png"
+        },
+        {
+            "scene": "1mid1 ONLY IF BACKGROUND NEEDS TO BE CHANGED MIDWAY THROUGH A SCENE",
+            "background": "bg1mid1.jpg"
+        },
+        {
+            "scene": "1a ONLY IF BACKGROUND NEEDS TO BE CHANGED AFTER A CHOICE",
+            "background": "bg1a.jpg"
+        },
+        {
+            "scene": "2",
+            "background": "backgrounds/insidecar.jpg"
+        },
+        {
+            "scene": "3",
+            "background": "backgrounds/boxi_hospital.png"
+        },
+        {
+            "scene": "4",
+            "background": "backgrounds/boxi_hospital.png" 
+        },
+        {
+            "scene": "5",
+            "background": "backgrounds/drunkenclamoutside.jpg"
+        },
+        {
+            "scene": "6",
+            "background": "backgrounds/drunkenclaminside.png"
+        },
+        {
+            "scene": "6mid",
+            "background": "backgrounds/drunkenclaminsidewithbrian.jpg"
+        },
+        {
+            "scene": "7",
+            "background": "backgrounds/drunkenclaminsidewithbrian.jpg"
+        },
+        {
+            "scene": "8",
+            "background": "backgrounds/drunkenclaminsidewithbrian.jpg"
+        },
+        {
+            "scene": "9",
+            "background": "backgrounds/drunkenclaminsidewithbrian.jpg"
+        },
+        {
+            "scene": "10",
+            "background": "backgrounds/son-giftok.gif"
+        },
+        {
+            "scene": "11",
+            "background": "backgrounds/drunkenclaminsidewithbrian.jpg"
+        },
+        {
+            "scene": "12",
+            "background": "backgrounds/drunkenclaminsidewithbrian.jpg"
+        },
+        {
+            "scene": "13",
+            "background": "backgrounds/drunkenclaminsidewithbrian.jpg"
+        },
+        {
+            "scene": "14",
+            "background": "backgrounds/drunkenclaminside.png"
+        },
+        {
+            "scene": "15",
+            "background": "backgrounds/drunkenclaminside.png"
+        },
+        {
+            "scene": "16",
+            "background": "backgrounds/drunkenclaminside.png"
+        },
+        {
+            "scene": "17",
+            "background": "backgrounds/drunkenclaminside.png"
+        },
+        {
+            "scene": "18",
+            "background": "backgrounds/drunkenclaminside.png"
+        },
+        {
+            "scene": "19",
+            "background": "backgrounds/drunkenclamoutside.jpg"
+        }
+    ]
+}
