@@ -8,7 +8,7 @@
         {
             "scene": "2",
             "background": "./resources/images/insidecar.jpg",
-            "characters": [2, 0]
+            "characters": [2]
         },
         {
             "scene": "3",
@@ -178,32 +178,32 @@
         {
             "scene": "25",
             "background": "",
-            "characters": []
+            "characters": [2, 3, 1]
         },
         {
             "scene": "26",
             "background": "",
-            "characters": []
+            "characters": [2, 3, 1]
         },
         {
             "scene": "27",
             "background": "",
-            "characters": []
+            "characters": [2, 3, 1]
         },
         {
             "scene": "28",
             "background": "",
-            "characters": []
+            "characters": [2, 3, 1]
         },
         {
             "scene": "29",
             "background": "",
-            "characters": []
+            "characters": [2, 3, 1]
         },
         {
             "scene": "30",
             "background": "",
-            "characters": []
+            "characters": [2, 3, 1]
         }
     ]
 }
